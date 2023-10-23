@@ -22,4 +22,4 @@ if (xpHeroi < 1000) {
 }
 
 // Exibindo a mensagem final
-console.log(`O Herói : ${nomeHeroi} Está Totalmente : ${nivelHeroi}`);
+console.log("O Heroi : "  +  nomeHeroi  +  " Está Totalmente : " + nivelHeroi);
